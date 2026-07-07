@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Taluka Shravya
+- Roll Number: 245324733182
+- Section: CSE C
+- GitHub Username: shravyataluka-codes
